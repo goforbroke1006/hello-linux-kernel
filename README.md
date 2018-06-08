@@ -15,3 +15,6 @@ Dive into Linux modules/drivers coding.
 ### Useful links
 
 * [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/index.html)
+https://patchwork.ozlabs.org/patch/88869/
+https://gist.github.com/edufelipe/6108057
+https://elixir.bootlin.com/linux/v3.6/ident/SIOCGIWNAME
