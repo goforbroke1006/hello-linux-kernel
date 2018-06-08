@@ -11,3 +11,7 @@ Dive into Linux modules/drivers coding.
     
     # if you need to remove
     sudo make remove
+
+### Useful links
+
+* [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/index.html)
