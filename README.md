@@ -18,3 +18,5 @@ Dive into Linux modules/drivers coding.
 * https://patchwork.ozlabs.org/patch/88869/
 * https://gist.github.com/edufelipe/6108057
 * https://elixir.bootlin.com/linux/v3.6/ident/SIOCGIWNAME
+* [RTL8723BE](http://www.realtek.com/products/productsView.aspx?Langid=1&PNid=21&PFid=59&Level=5&Conn=4&ProdID=374)
+* [RTL8723DE](http://www.realtek.com/products/productsView.aspx?Langid=1&PNid=21&PFid=59&Level=5&Conn=4&ProdID=377)
