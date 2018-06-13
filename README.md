@@ -24,3 +24,4 @@ Dive into Linux modules/drivers coding.
 * [Writing a Simple USB Driver](https://www.linuxjournal.com/article/7353)
 * [Programmatically obtaining the vendor ID, product ID of a USB device on a Linux platform
 ](https://stackoverflow.com/a/14722513/2048322)
+* [Linux USB API](https://01.org/linuxgraphics/gfx-docs/drm/driver-api/usb/index.html)
