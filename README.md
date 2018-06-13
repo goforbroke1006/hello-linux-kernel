@@ -22,3 +22,5 @@ Dive into Linux modules/drivers coding.
 * [RTL8723DE](http://www.realtek.com/products/productsView.aspx?Langid=1&PNid=21&PFid=59&Level=5&Conn=4&ProdID=377)
 * [Writing USB driver tutorial](https://kernel.readthedocs.io/en/sphinx-samples/writing_usb_driver.html)
 * [Writing a Simple USB Driver](https://www.linuxjournal.com/article/7353)
+* [Programmatically obtaining the vendor ID, product ID of a USB device on a Linux platform
+](https://stackoverflow.com/a/14722513/2048322)
